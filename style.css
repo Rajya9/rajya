@@ -1,0 +1,19 @@
+*{
+    padding :30;
+    margin:0;
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+li{
+    list-style: none;
+    padding-right: 40px;
+}
+.bg-card{
+    background-image:url('https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_1280,ar_16:9/v1/img/recipes/30/08/1/uaSpHBwtSIuQpcHZKQeu_0S9A0050.jpg');
+    height: 100vh;
+    width: 100wh;
+    background-size: cover;
+}
